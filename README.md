@@ -1,6 +1,6 @@
-# Google Doc Converter
+# Google Docs Converter
 
-This go library can be used to convert google Doc to plain String, HTML or MarkDown.
+This go library can be used to convert Google Docs to plain String, HTML or MarkDown.
 
 #### Status
 
